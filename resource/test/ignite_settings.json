@@ -1,4 +1,4 @@
-{
-    "AllowLogOn": "true",
-    "ShowSpeakerInformation": "true"
-}
+[
+    { "Key": "AllowLogOn", "Value": "true"},
+    { "Key": "ShowSpeakerInformation", "Value": "true" }
+]
