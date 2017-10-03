@@ -1,4 +1,50 @@
 [
     { "Key": "AllowLogOn", "Value": "true"},
-    { "Key": "ShowSpeakerInformation", "Value": "true" }
+    { "Key": "ShowSpeakerInformation", "Value": "true" },
+    { "Key": "HideForJune7Release", "Value": "false" },
+    { "Key": "EnableSessionDiscussions", "Value": "false" },
+    { "Key": "ShowEvaluations", "Value": "true" },
+    { "Key": "ShowOnDemand", "Value": "true" },
+    { "Key": "ShowMobileApp", "Value": "true" },
+    { "Key": "ShowSessionOverflow", "Value": "true" },
+    { "Key": "ShowPersonas", "Value": "false" },
+    { "Key": "EnableTracing", "Value": "false" },
+    { "Key": "UseLegacyOnDemandContent", "Value": "true" },
+    { "Key": "ForceCookieConsent", "Value": "true" },
+    { "Key": "AddEuroDomainParameter", "Value": "true" },
+
+    // Session Type Settings
+    { "Key": "HandsOnLabSessionType", "Value": "Hands-on Lab" },
+    { "Key": "PreDaySessionType", "Value": "Pre-Day Training" },
+    { "Key": "BreakoutSeventyFiveSessionType", "Value": "Breakout: 75 minute" },
+
+    // Identity Certificate Settings
+    { "Key": "CertificatePassword", "Value": "Passw0rd1" },
+    { "Key": "CertificateName", "Value": "local-dev.pfx" },
+
+    // Conference Details
+    { "Key": "BusinessStartTime", "Value": "09:00:00" },
+    { "Key": "BusinessEndTime", "Value": "18:00:00" },
+    { "Key": "EmptySlotMinimumSizeInMinutes", "Value": "30" },
+    { "Key": "EventStartDateTimeOffset", "Value": "'2017-09-23T00:00:00.0000000-04:00" },
+    { "Key": "EventEndDateTimeOffset", "Value": "'2017-09-30T23:59:59.0000000-04:00" },
+    { "Key": "EvaluationStart", "Value": "'2017-1-01T23:59:59.0000000-04:00" },
+    { "Key": "EvaluationEnd", "Value": "'2017-10-12T23:59:59.0000000-04:00" },
+    { "Key": "IsEvaluationTestingEnabled", "Value": "False" },
+    { "Key": "EvaluationTestingDate", "Value": "'2017-09-29T23:59:59.0000000-04:00" },
+    { "Key": "EvaluationStartOffsetMinutes", "Value": "10" },
+
+    // Front End Client Settings
+    { "Key": "ConferenceUtcOffsetHours", "Value": "-4" },
+    { "Key": "KendoSchedulerTimeZone", "Value": "EST5EDT" },
+    { "Key": "LabTypeName", "Value": "Hands-on Lab" },
+    { "Key": "LabActiveStart", "Value": "'2017-09-01T12:15:00.0000000-04:00" },
+    { "Key": "LabActiveEnd", "Value": "'2018-05-31T23:59:59.0000000-04:00" },
+    { "Key": "LabHours", "Value": "[{&quot;day&quot;:&quot;Saturday, 9/23&quot;,&quot;start&quot;:&quot;Closed&quot;,&quot;end&quot;:&quot;Closed&quot;},{&quot;day&quot;:&quot;Sunday, 9/24&quot;,&quot;start&quot;:&quot;Closed&quot;,&quot;end&quot;:&quot;Closed&quot;},{&quot;day&quot;:&quot;Monday, 9/25&quot;,&quot;start&quot;:&quot;9/25/2017 12:30 PM&quot;,&quot;end&quot;:&quot;9/25/2017 5:15 PM&quot;},{&quot;day&quot;:&quot;Tuesday, 9/26&quot;,&quot;start&quot;:&quot;9/26/2017 7:30 AM&quot;,&quot;end&quot;:&quot;9/26/2017 6:00 PM&quot;},{&quot;day&quot;:&quot;Wednesday, 9/27&quot;,&quot;start&quot;:&quot;9/27/2017 7:30 AM&quot;,&quot;end&quot;:&quot;9/27/2017 6:00 PM&quot;},{&quot;day&quot;:&quot;Thursday, 9/28&quot;,&quot;start&quot;:&quot;9/28/2017 7:30 AM&quot;,&quot;end&quot;:&quot;9/28/2017 5:15 PM&quot;},{&quot;day&quot;:&quot;Friday, 9/29&quot;,&quot;start&quot;:&quot;9/29/2017 8:00 AM&quot;,&quot;end&quot;:&quot;9/29/2017 1:45 PM&quot;},{&quot;day&quot;:&quot;Saturday, 9/30&quot;,&quot;start&quot;:&quot;Closed&quot;,&quot;end&quot;:&quot;Closed&quot;}]" },
+    { "Key": "ConferenceTimeZoneIdentifier", "Value": "America/New_York" },
+    { "Key": "EnableDaylightSavingFix", "Value": "True" },
+    { "Key": "SecondScreenWaitTimeInMinutesBeforeNavigatingBack", "Value": "5" },
+    { "Key": "EnableStarredSessionsFeature", "Value": "false" },
+    { "Key": "GapDetectionStartDate", "Value": "'2017-09-25T00:00:00.0000000-04:00" },
+    { "Key": "GapDetectionEndDate", "Value": "'2017-09-29T11:59:59.0000000-04:00" }
 ]
