@@ -12,8 +12,6 @@
     { "Key": "UseLegacyOnDemandContent", "Value": "true" },
     { "Key": "ForceCookieConsent", "Value": "true" },
     { "Key": "AddEuroDomainParameter", "Value": "true" },
-
-    // Session Type Settings
     { "Key": "HandsOnLabSessionType", "Value": "Hands-on Lab" },
     { "Key": "PreDaySessionType", "Value": "Pre-Day Training" },
     { "Key": "BreakoutSeventyFiveSessionType", "Value": "Breakout: 75 minute" },
